@@ -1,4 +1,4 @@
 # myfirstrepo
 This is my first Git repository.
 <br/>
-Author - Sachin Kumar
+Author - Sachin Kumar(IIIT G)
